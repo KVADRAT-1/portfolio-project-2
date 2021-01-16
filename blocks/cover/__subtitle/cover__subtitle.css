@@ -10,14 +10,12 @@
 
 @media (min-width:1024px) and (max-width:1279px) {
     .cover__subtitle {
-        margin: 0 auto;
         padding-bottom: 195px;
     }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
     .cover__subtitle {
-        margin: 0 auto;
         padding-bottom: 115px;
     }
 }
@@ -25,7 +23,6 @@
 @media (max-width:767px) { 
     .cover__subtitle {
         max-width: 288px;
-        margin: 0 auto;
         padding-bottom: 33px;
         font-size: 14px;
         line-height: 16px;
