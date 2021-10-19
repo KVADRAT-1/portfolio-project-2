@@ -4,8 +4,6 @@
 Сайт с построением сложных сеток и реализацией 
 адаптивной вёрстки, посредством Flexbox, Grid Layout и Media queries.
 
-[Проектная работа на GitHub Pages](https://kvadrat-1.github.io/russian-travel-master/)
-
 ## Технологии: 
 * Flexbox 
 * Grid Layout 
@@ -15,5 +13,6 @@
 * Git 
 * Figma
 
-**Figma**
+[Проектная работа на GitHub Pages](https://kvadrat-1.github.io/russian-travel-master/)
+
 [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
